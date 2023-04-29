@@ -31,7 +31,7 @@ div {
   transition: 0.2s;
 }
 .button {
-  background-color: black;
+  background-color: blue;
   color: white;
   border: 2px solid white;
   padding: 20px;
